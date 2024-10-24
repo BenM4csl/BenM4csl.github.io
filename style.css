@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: aqua;
+    color: black;
+}
+img{
+    height: 200px;
+    width: auto;
+}
